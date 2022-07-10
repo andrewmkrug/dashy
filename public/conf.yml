@@ -12,6 +12,7 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: colorful
+  statusCheck: true
 
 # Main content - An array of sections, each containing an array of items
 sections:
@@ -45,3 +46,26 @@ sections:
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
   
+sections:
+- name: Services
+  items:
+  - title: Uptime
+    description: Firewall Central Management
+    icon: favicon
+    url: https://up.krugweb.services
+    statusCheck: true
+  - title: Coolify
+    description: Firewall Central Management
+    icon: favicon
+    url: https://server.krugweb.services
+    statusCheck: true
+  - title: n8n
+    description: Firewall Central Management
+    icon: favicon
+    url: https://n8n.krugweb.services
+    statusCheck: true
+  - title: VS Code
+    description: Firewall Central Management
+    icon: favicon
+    url: https://vscode.krugweb.services
+    statusCheck: true
