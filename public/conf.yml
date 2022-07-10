@@ -45,8 +45,6 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
-  
-sections:
 - name: Services
   items:
   - title: Uptime
