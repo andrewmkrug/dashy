@@ -82,7 +82,7 @@ jobs:
         password: ${{ secrets.ACR_PASSWORD }}
 
     - name: 🚦 Check Registry Status
-      uses: crazy-max/ghaction-docker-status@v1
+      uses: crazy-max/ghaction-docker-status@v2
 
     - name: ⚒️ Build and push
       uses: docker/build-push-action@v2
