@@ -27,7 +27,7 @@ jobs:
 
       # Use QEMU for multi-architecture builds
       - name: Set up QEMU
-        uses: docker/setup-qemu-action@v1
+        uses: docker/setup-qemu-action@v3
         with:
           platforms: all
 
