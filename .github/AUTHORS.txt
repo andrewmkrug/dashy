@@ -57,8 +57,8 @@ UrekD <urek.denis@gmail.com> - 5 commits
 Erik Vroon <erik.vroon22@gmail.com> - 6 commits
 Leonardo Covarrubias <leos@leocov.com> - 6 commits
 Kashif Sohail <kashif.ezone@gmail.com> - 9 commits
-renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> - 9 commits
 Alicia Sykes <alicia@futr.ai> - 10 commits
+renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> - 10 commits
 Alejandro Pinar Ruiz <alejandropinarruiz@gmail.com> - 14 commits
 Alicia Sykes <&#x3D;> - 16 commits
 aterox <church.kennetha@gmail.com> - 19 commits
@@ -68,7 +68,7 @@ snyk-bot <snyk-bot@snyk.io> - 68 commits
 Alicia Bot <87835202+liss-bot@users.noreply.github.com> - 88 commits
 liss-bot <liss-bot@d0h.co> - 108 commits
 Alicia Sykes <alicia@omg.lol> - 161 commits
-repo-visualizer <repo-visualizer@users.noreply.github.com> - 206 commits
-github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 220 commits
+repo-visualizer <repo-visualizer@users.noreply.github.com> - 207 commits
+github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com> - 221 commits
 Alicia Sykes <gh@d0h.co> - 435 commits
 Alicia Sykes <sykes.alicia@gmail.com> - 1403 commits
